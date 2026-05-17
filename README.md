@@ -1,6 +1,6 @@
 # Boston Crime PostgreSQL Database
 
-This project builds a PostgreSQL database from a Boston crime CSV dataset. It demonstrates a basic database engineering workflow using Python, PostgreSQL, and SQL.
+This project builds a PostgreSQL database from a Boston crime CSV dataset.
 
 The project includes:
 

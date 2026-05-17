@@ -144,11 +144,3 @@ It also creates two example users:
 |---|---|
 | `data_analyst` | `readonly` |
 | `data_scientist` | `readwrite` |
-
-This demonstrates basic role-based access control in PostgreSQL.
-
-## Notes
-
-This is a small portfolio project intended to demonstrate a practical PostgreSQL workflow. It focuses on database setup, data loading, permissions, and basic analysis rather than advanced data modeling or application development.
-
-The `.env` file is ignored by Git and should not be committed.
